@@ -7,6 +7,7 @@ import {
   SimpleGrid,
   UnorderedList,
   Heading,
+  Box,
   Center,
 } from "@chakra-ui/react";
 import Layout from "../../components/layouts/article";
