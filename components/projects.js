@@ -19,7 +19,7 @@ const Projects = () => {
             title="Amazon-clone"
             subtitle="fully functional"
             thumbnail="../images/amazon.jpg"
-            url="https://www.google.com/"
+            url="https://amazona-clone-gus.herokuapp.com/"
             // iconstack={[{ IoLogoReact }, { IoLogoNodejs }]}
           >
             eCommerce web application, Amazon look like. Built with React,
