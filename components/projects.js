@@ -22,8 +22,8 @@ const Projects = () => {
             url="https://amazona-clone-gus.herokuapp.com/"
             // iconstack={[{ IoLogoReact }, { IoLogoNodejs }]}
           >
-            eCommerce web application, Amazon look like. Built with React,
-            Redux, Express, Node and MondoDB.
+            eCommerce web application, Amazon look-a-like. Built with React,
+            Redux, Express, Node.js and MondoDB.
           </HeroProject>
         </Section>
         <Divider my={6} />
@@ -36,8 +36,8 @@ const Projects = () => {
             url="https://instagram-clone-58c31.firebaseapp.com/"
             // iconstack={[{ IoLogoReact }, { IoLogoNodejs }]}
           >
-            Web application that permit interact with other users uploading
-            images and comment them. Built with React and Firebase.
+            Web application that permits interaction with other users uploading
+            images and comments. Built with React and Firebase.
           </HeroProject>
         </Section>
         <Divider my={6} />

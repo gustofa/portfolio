@@ -80,8 +80,7 @@ const Contact = () => {
         <VStack flex={1} spacing={{ base: 5, md: 10 }}>
           <Box>
             <Text fontSize={{ base: "md", md: "xl" }}>
-              Feel free to reach me out via this contact form, email or LinkedIn
-              DM.
+              Feel free to reach me via this contact form, email or LinkedIn.
             </Text>
             <Box py={{ base: 5, sm: 5, md: 8, lg: 10 }}>
               <VStack pl={0} spacing={3} alignItems="flex-start">

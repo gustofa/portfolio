@@ -51,7 +51,7 @@ const Home = () => (
           duration: 1,
         }}
       >
-        I&apos;m a React Developer who code with passion and is always keen to
+        I&apos;m a React Developer who codes with passion and is always keen to
         learn!
       </MotionBox>
 
@@ -100,9 +100,9 @@ const Home = () => (
         </Paragraph>
         <Paragraph fontSize={"lg"}>
           {" "}
-          I am looking to be part of a team where I can contribute my skills and
-          grow based on effort and a lot of motivation. If I am the person you
-          are looking for let talk!{" "}
+          I am looking to be part of a team where I can contribute with my
+          skills and grow based on effort and a lot of motivation. If I am the
+          person you are looking for, lets talk!{" "}
         </Paragraph>
       </Section>
       <a name="projects"></a>
